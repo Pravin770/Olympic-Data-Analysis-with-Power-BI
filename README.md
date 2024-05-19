@@ -95,6 +95,7 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
 - Inconsistent data entry for athlete heights, Olympic years, and ages could lead to discrepancies in performance analysis and trend tracking.​
 - Temporal Coverage: The dataset only covers data until the Summer Olympics 2016, limiting the ability to track recent performance trends and draw up-to-date insights. Access to more recent data could provide a clearer and more comprehensive understanding of athlete performance over time.​
 
-​## Thank You!!
+
+## Thank You!!
 ​
 ​
