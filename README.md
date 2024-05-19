@@ -1,8 +1,18 @@
 # Olympic-Data-Analysis-with-Power-BI
 ## Project Overview
 Welcome to the Olympic Athlete Data Analysis project! This project involves comprehensive analysis of Olympic data from 1896 to 2016, focusing on athlete performances, country-wise medal distributions, and seasonal trends. The dataset includes detailed information about athletes, such as their age, gender, height, weight, the teams they represented, the sports they participated in, and the medals they won.
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/631bb645-f979-49cb-a263-036a655daf1d)" width="200" />
+<p align="left">
 
+<img src="https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/307c3321-02c6-4937-bca2-6e2ddc9ad9d6" alt="Image 1" width=50% height=50%>
+<img src="https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/873e4f08-b35b-45bf-af65-9789f815d3ae" alt="Image 2" width=50% height=50%>
+
+</p>
+![image](https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/873e4f08-b35b-45bf-af65-9789f815d3ae)
+
+<p align="left">
+  <img src="https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/307c3321-02c6-4937-bca2-6e2ddc9ad9d6" alt="Image 1" width="50%" height="50%">
+  <img src="https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/873e4f08-b35b-45bf-af65-9789f815d3ae" alt="Image 2" width="50%" height="50%">
+</p>
 
 ## Key Features:
 ### Data Exploration and Cleaning:
