@@ -55,6 +55,8 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
 
 ## Reports
 #### Countrywise Olympic Performance Analysis​
+![image](https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/1956edf2-7988-47d8-8c2f-cc566758611f)
+
 - Gain insights into each Country's performance in every Olympics using the Country & Olympic Season filter.​
 - The badge indicates number of countries participated, number of medals won, and number of sports played by each country in each Olympic season, as well as across all seasons.​
 - Monitor the medal distribution based on their win percentage and breakdown by gender for the selected country and Olympic season.​
