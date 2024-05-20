@@ -95,6 +95,8 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
 - Monitor athlete participation and medal distribution from the selected country and selected sport across every Olympic season.​
 
 #### Olympic Participants & Medal Forecast for Paris 2024​
+![image](https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/7347479d-e1a0-4bbf-b398-576c2f8b9d70)
+
 - Based on past data analysis, the predicted participants and medals for 2024 Olympics
 
 #### Data Findings
