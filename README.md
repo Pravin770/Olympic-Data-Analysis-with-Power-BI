@@ -88,6 +88,8 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
   - Number of medals won​
 ​
 #### Olympic Analysis​
+![image](https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/a4f1bfbc-3216-4ce4-b0e7-8cd132a3351c)
+
 - Monitor the overall growth of Olympics and athlete interest in participating in Olympic events.​
 - Track the trend of event growth in each Olympic season.​
 - Monitor athlete participation and medal distribution from the selected country and selected sport across every Olympic season.​
