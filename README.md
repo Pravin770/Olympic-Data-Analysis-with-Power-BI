@@ -62,6 +62,8 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
 - The report provides a detailed view of the distribution of medals won by each country throughout the season.​
 
 #### Olympic Individual Performance Analysis​
+![image](https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/74c8dbd5-9ef3-4f17-abb1-1a5df7305e26)
+
 - Track individual athlete performance across Olympic seasons, including the number of seasons played and total medals won.​
 - Utilize the "Medal Distribution by Sport" chart to monitor the distribution of medals won by athletes in each sport category.​
 - Dive into detailed athlete performance with the "Athlete Participation and Medals Won by Event" chart, which displays:​
@@ -70,6 +72,7 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
   - Trend line representing the number of medals won by the athlete in each event for the selected Olympic season.​
 
 ##### Athlete Profile Summary​
+
 - Dive into detailed athlete performance across Olympic seasons.​
 - Gain a comprehensive view of each athlete's performance, including:​
   - Name​
