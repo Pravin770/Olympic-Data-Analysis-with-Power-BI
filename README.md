@@ -74,7 +74,7 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
   - Trend line representing the number of medals won by the athlete in each event for the selected Olympic season.​
 
 ##### Athlete Profile Summary​
-<p align="left">
+<p align="center">
 <img src="https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/870cf7b7-c509-44b6-bfc9-d03227c10279" alt="Image 1" >
 </p>
 ![image]()
