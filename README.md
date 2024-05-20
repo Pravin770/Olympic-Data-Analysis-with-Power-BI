@@ -77,7 +77,6 @@ The Olympic Athlete dataset provides comprehensive information about each Olympi
 <p align="center">
 <img src="https://github.com/Pravin770/Olympic-Data-Analysis-with-Power-BI/assets/56891610/870cf7b7-c509-44b6-bfc9-d03227c10279" alt="Image 1" >
 </p>
-![image]()
 
 - Dive into detailed athlete performance across Olympic seasons.​
 - Gain a comprehensive view of each athlete's performance, including:​
